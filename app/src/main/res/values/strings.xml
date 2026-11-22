@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">רישום תלמידים</string>
+
+    <string name="title_registration">הרשמה והתחברות</string>
+    <string name="title_details">פרטי תלמיד</string>
+    <string name="title_edit">עריכת פרטי תלמיד</string>
+
+    <string name="hint_first_name">שם פרטי</string>
+    <string name="hint_last_name">שם משפחה</string>
+    <string name="hint_email">כתובת אימייל</string>
+    <string name="label_grade">כיתה</string>
+    <string name="label_major">מגמה</string>
+    <string name="checkbox_notifications">אישור קבלת התראות</string>
+    <string name="checkbox_terms">אני מאשר/ת את תנאי השימוש</string>
+
+    <string name="grade_y">י\u0027</string>
+    <string name="grade_ya">י\u0027א</string>
+    <string name="grade_yb">י\u0027ב</string>
+
+    <string name="major_cs">מדעי המחשב</string>
+    <string name="major_physics">פיזיקה</string>
+    <string name="major_robotics">רובוטיקה</string>
+    <string name="major_design">עיצוב</string>
+
+    <string name="btn_submit">הרשמה / המשך</string>
+    <string name="btn_edit_details">עריכת פרטים</string>
+    <string name="btn_send_email">שליחת מייל</string>
+    <string name="btn_share_details">שיתוף פרטים</string>
+    <string name="btn_cancel">ביטול</string>
+    <string name="btn_save_and_return">שמור וחזור</string>
+
+    <string name="error_first_name_required">יש להזין שם פרטי תקין</string>
+    <string name="error_last_name_required">יש להזין שם משפחה תקין</string>
+    <string name="error_email_required">יש להזין כתובת אימייל</string>
+    <string name="error_email_invalid">יש להזין כתובת אימייל תקינה</string>
+    <string name="error_grade_required">יש לבחור כיתה</string>
+    <string name="error_major_required">יש לבחור מגמה</string>
+    <string name="error_terms_required">יש לאשר את תנאי השימוש</string>
+    <string name="error_no_email_app">לא נמצאה אפליקציית מייל זמינה במכשיר</string>
+    <string name="error_no_share_app">לא נמצאה אפליקציה מתאימה לשיתוף הטקסט</string>
+    <string name="msg_saved_success">הפרטים נשמרו ועודכנו</string>
+
+    <string name="yes_approved">מאושר</string>
+    <string name="no_not_approved">לא מאושר</string>
+
+    <string name="template_student_summary">שם פרטי: %1$s\nשם משפחה: %2$s\nאימייל: %3$s\nכיתה: %4$s\nמגמה: %5$s\nקבלת התראות: %6$s\nאישור תנאי שימוש: %7$s</string>
+    <string name="email_subject">פרטי תלמיד</string>
+    <string name="email_chooser_title">בחר אפליקציית מייל</string>
+    <string name="share_chooser_title">שתף פרטי תלמיד באמצעות</string>
+    <string name="template_email_or_share_body">פרטי התלמיד:\n\n%1$s</string>
+</resources>
